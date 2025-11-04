@@ -1,17 +1,6 @@
 ### Hi there, I'm Owino Glen Odhiambo 👋
 
-<a href="https://www.linkedin.com/in/owino-glen-odhiambo/">
-  <img align="left" alt="Owino's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/OWINOGLEN">
-  <img align="left" alt="Owino Glen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/owinoglen/">
-  <img align="left" alt="Owino's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 
-<br />
-<br />
 
 Hi, I'm Owino Glen Odhiambo, a passionate self-taught full stack web developer and a freelance software engineer from Kenya. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -19,7 +8,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach me [email](mailto:owinoglen@gmail.com) :)
+- 💼 Any freelance work? Do reach me [email](mailto:owinoglenwayodi@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
@@ -38,7 +27,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - [LinkedIn](https://www.linkedin.com/in/owino-glen-odhiambo/) 💼
 - [Twitter](https://twitter.com/OWINOGLEN) 🐦
 - [Instagram](https://www.instagram.com/owinoglen/) 📷
-- [Email](mailto:owinoglen@gmail.com) 📧
+- [Email](mailto:owinoglenwayodi@gmail.com) 📧
 
 <br />
 
