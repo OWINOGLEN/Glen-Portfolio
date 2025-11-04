@@ -1,66 +1,72 @@
-<h1 align="center">Hi there 👋, I'm Owino Glen Odhiambo</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+# Hi — I'm Owino Glen Odhiambo  👋
 
-<p align="center">
-  <a href="https://github.com/OWINOGLEN">
-    <img src="https://komarev.com/ghpvc/?username=OWINOGLEN&color=blue&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/OWINOGLEN?tab=followers">
-    <img src="https://img.shields.io/github/followers/OWINOGLEN?label=Followers&style=social" alt="Followers">
-  </a>
+markdown
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=1000&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=120&lines=👋+I'm+Dan+Chege;💻+Tech+Enthusiast;🔒+Cybersecurity+Enthusiast;🕵️‍♂️+Ethical+Hacker;🛡️+Penetration+Tester)](https://git.io/typing-svg)
+
+
+
+I build efficient, maintainable applications and explore web technologies including React, Python, MongoDb, ExpressJs, Node.js, and TypeScript. I also practice penetration testing and ethical hacking to strengthen defensive skills and security-minded design.
+
+### Languages and Tools
+----------------------------------------------------------------------------------------------------------------------------
+<p align="left">
+
+<!-- 🧠 Languages -->
+<strong>Languages:</strong><br>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white" width="80" height="30"/>
+
+<br>
+
+<!-- ⚙️ Frameworks & Libraries -->
+<strong>Frameworks & Libraries:</strong><br>
+<img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=white" width="80" height="30"/>
+
+<br>
+
+<!-- 🗄️ Databases -->
+<strong>Databases:</strong><br>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" width="80" height="30"/>
+
+<br>
+
+<!-- 🧰 Tools -->
+<strong>Tools:</strong><br>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" width="80" height="30"/>
+
+<br>
+
+<!-- 💻 Operating Systems -->
+<strong>Operating Systems:</strong><br>
+<img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kalilinux&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu&logoColor=white" width="80" height="30"/>
+
 </p>
+
+
+
+## GitHub stats
+
+![Dan Chege's GitHub stats](https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danchege&theme=radical)
 
 ---
 
-### 🛠️ Technologies & Tools
+## Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,mysql,mongodb,git,github,vscode&perline=6" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OWINOGLEN&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OWINOGLEN&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWINOGLEN&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanChege-blue?logo=linkedin)](https://www.linkedin.com/in/danchege)  
+[![GitHub](https://img.shields.io/badge/GitHub-danchege-black?logo=github)](https://github.com/danchege)
 
 ---
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OWINOGLEN&theme=github" alt="Contribution Graph" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/owino-glen-odhiambo/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:owinoglen@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://twitter.com/OWINOGLEN">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-</p>
-
----
-
-### ⚡ Fun Fact
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
