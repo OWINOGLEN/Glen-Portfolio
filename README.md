@@ -1,7 +1,7 @@
 # Hi — I'm Owino Glen Odhiambo  👋
 
 markdown
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=1000&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=120&lines=👋+I'm+Dan+Chege;💻+Tech+Enthusiast;🔒+Cybersecurity+Enthusiast;🕵️‍♂️+Ethical+Hacker;🛡️+Penetration+Tester)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=1000&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=120&lines=👋+I'm+Owino+Glen;💻+Tech+Enthusiast;🔒+Cybersecurity+Enthusiast;🕵️‍♂️+Ethical+Hacker;🛡️+Penetration+Tester)](https://git.io/typing-svg)
 
 
 
@@ -18,7 +18,7 @@ I build efficient, maintainable applications and explore web technologies includ
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" width="80" height="30"/>
-<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white" width="80" height="30"/>
+
 
 <br>
 
@@ -56,17 +56,17 @@ I build efficient, maintainable applications and explore web technologies includ
 
 ## GitHub stats
 
-![Dan Chege's GitHub stats](https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&count_private=true)
+![Dan Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=glenodhiambo&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owinoglen&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danchege&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owinoglen&theme=radical)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanChege-blue?logo=linkedin)](https://www.linkedin.com/in/danchege)  
-[![GitHub](https://img.shields.io/badge/GitHub-danchege-black?logo=github)](https://github.com/danchege)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OwinoGlen-blue?logo=linkedin)](https://www.linkedin.com/in/danchege)  
+[![GitHub](https://img.shields.io/badge/GitHub-owinoglen-black?logo=github)](https://github.com/owinoglen)
 
 ---
