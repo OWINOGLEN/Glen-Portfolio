@@ -1,56 +1,72 @@
-### Hi there, I'm Owino Glen Odhiambo 👋
+# Hi — I'm Glen Annex 👋
+
+markdown
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=1000&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=120&lines=👋+I'm+Glen+Annex;💻+Tech+Enthusiast;🔒+Cybersecurity+Enthusiast;🕵️‍♂️+Ethical+Hacker;🛡️+Frontend+Developer)](https://git.io/typing-svg)
 
 
 
-Hi, I'm Owino Glen Odhiambo, a passionate Frontend Developer from Kenya. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I specialize in responsive websites and functional user interfaces.
+I build efficient, maintainable applications and explore web technologies including React, Python, MongoDb, ExpressJs, Node.js, and TypeScript. I also practice penetration testing and ethical hacking to strengthen defensive skills and security-minded design.
 
-I'm a multidisciplinary developer who focuses on telling stories visually, through enjoyable and meaningful experiences.
+### Languages and Tools
+----------------------------------------------------------------------------------------------------------------------------
+<p align="left">
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Any freelance work? Do reach me [email](mailto:owinoglen@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+<!-- 🧠 Languages -->
+<strong>Languages:</strong><br>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white" width="80" height="30"/>
 
-**Languages and Tools:**  
+<br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<!-- ⚙️ Frameworks & Libraries -->
+<strong>Frameworks & Libraries:</strong><br>
+<img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=white" width="80" height="30"/>
 
-**Where to find me:**
+<br>
 
-- [LinkedIn](https://www.linkedin.com/in/owino-glen-048b012a1/) 💼
-- [GitHub](https://github.com/OWINOGLEN) 💻
-- [Email](mailto:owinoglen@gmail.com) 📧
+<!-- 🗄️ Databases -->
+<strong>Databases:</strong><br>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" width="80" height="30"/>
 
-<br />
+<br>
 
-**GitHub Stats:**
+<!-- 🧰 Tools -->
+<strong>Tools:</strong><br>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" width="80" height="30"/>
 
-<a href="https://github.com/OWINOGLEN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OWINOGLEN&theme=light&hide_langs_below=1" />
-</a>
+<br>
 
-<a href="https://github.com/OWINOGLEN">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=OWINOGLEN&show_icons=true&theme=light&line_height=27" alt="Owino's github stats"/>
-</a>
+<!-- 💻 Operating Systems -->
+<strong>Operating Systems:</strong><br>
+<img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kalilinux&logoColor=white" width="80" height="30"/>
+<img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu&logoColor=white" width="80" height="30"/>
 
-<br />
-<br />
+</p>
 
-**Recent GitHub Activity:**
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
-<br />
+## GitHub stats
 
-<div align="center">
+![Dan Chege's GitHub stats](https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&count_private=true)
 
-### Show some ❤️ by starring some of the repositories!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical)
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danchege&theme=radical)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanChege-blue?logo=linkedin)](https://www.linkedin.com/in/danchege)  
+[![GitHub](https://img.shields.io/badge/GitHub-danchege-black?logo=github)](https://github.com/danchege)
+
+---
