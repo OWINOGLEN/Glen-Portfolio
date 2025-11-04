@@ -1,20 +1,6 @@
 ### Hi there, I'm Owino Glen Odhiambo 👋
 
-<a href="https://www.linkedin.com/in/owino-glen-048b012a1/">
-  <img align="left" alt="Owino's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Owino Glen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/">
-  <img align="left" alt="Owino's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
-<a href="https://github.com/OWINOGLEN">
-  <img align="left" alt="Owino's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
 
-<br />
-<br />
 
 Hi, I'm Owino Glen Odhiambo, a passionate Frontend Developer from Kenya. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I specialize in responsive websites and functional user interfaces.
 
