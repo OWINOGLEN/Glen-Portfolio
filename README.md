@@ -18,14 +18,12 @@ I build efficient, maintainable applications and explore web technologies includ
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" width="80" height="30"/>
-<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white" width="80" height="30"/>
 
 <br>
 
 <!-- ⚙️ Frameworks & Libraries -->
 <strong>Frameworks & Libraries:</strong><br>
 <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white" width="80" height="30"/>
-<img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=white" width="80" height="30"/>
 <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=white" width="80" height="30"/>
 
 <br>
@@ -56,17 +54,17 @@ I build efficient, maintainable applications and explore web technologies includ
 
 ## GitHub stats
 
-![Dan Chege's GitHub stats](https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&count_private=true)
+![Dan Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinoglen&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owinoglen&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danchege&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owinoglen&theme=radical)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanChege-blue?logo=linkedin)](https://www.linkedin.com/in/danchege)  
-[![GitHub](https://img.shields.io/badge/GitHub-danchege-black?logo=github)](https://github.com/danchege)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OwinoGlen-blue?logo=linkedin)](https://www.linkedin.com/in/owinoglel)  
+[![GitHub](https://img.shields.io/badge/GitHub-owinoglen-black?logo=github)](https://github.com/owinoglen)
 
 ---
