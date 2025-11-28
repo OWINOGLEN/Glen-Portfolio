@@ -54,7 +54,7 @@ I build efficient, maintainable applications and explore web technologies includ
 
 ## GitHub stats
 
-![Dan Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinoglen&show_icons=true&theme=radical&count_private=true)
+![Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinoglen&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owinoglen&layout=compact&theme=radical)
 
